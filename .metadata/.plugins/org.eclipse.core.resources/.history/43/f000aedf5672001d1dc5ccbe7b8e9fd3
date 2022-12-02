@@ -1,0 +1,7 @@
+
+public class Chapter05 {
+	long long1 = 1L;
+	double double1 = 0.01;
+	boolean boolean1 = true;
+	
+}
