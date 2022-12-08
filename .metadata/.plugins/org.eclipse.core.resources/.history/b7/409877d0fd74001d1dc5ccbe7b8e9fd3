@@ -1,0 +1,14 @@
+
+public class RJC {
+	public static void main(String[] args) {
+		for (int number1 = 10; number1 <= 10; number1--) {
+			if (number1 % 2 == 1) {
+				continue;
+			}
+			if (number1 == 1) {
+				break;
+			}
+			System.out.println(number1);
+		}
+	}
+}
