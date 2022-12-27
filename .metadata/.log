@@ -7531,3 +7531,13 @@ java.io.IOException: Stream closed
 
 !ENTRY mergedoc.encoding 2 0 2022-12-08 22:13:11.943
 !MESSAGE リソース '/JavaWcp2/src/Human02.java' が存在しません。
+!SESSION 2022-12-18 02:37:29.274 -----------------------------------------------
+eclipse.buildId=4.25.0.I20220831-1800
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/sumireso/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/sumireso/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2022-12-27 22:48:07.959
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
